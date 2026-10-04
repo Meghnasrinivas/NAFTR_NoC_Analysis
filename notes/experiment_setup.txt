@@ -1,0 +1,31 @@
+Simulator:
+Nirgam 2.1
+
+Topology:
+2D Mesh
+
+Network size:
+5 × 5
+
+Routing algorithms:
+FTXY
+EDAR
+NAFTR
+
+Traffic patterns:
+1. Bit-reversal
+2. Bit-shuffle
+3. Butterfly
+4. Transpose
+
+Warm-up:
+5 cycles
+
+Simulation:
+5000 cycles
+
+Fault rates:
+3%
+6%
+9%
+12%

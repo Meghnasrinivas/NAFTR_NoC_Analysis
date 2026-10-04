@@ -1,0 +1,19 @@
+FTXY
+↓
+Fault-tolerant version of XY routing
+
+
+EDAR
+↓
+Efficient Dynamic and Adaptive Routing
+
+
+NAFTR
+↓
+New adaptive fault-tolerant routing
+↓
+Uses preferred-port weights
+↓
+Considers busy/congestion/fault
+↓
+Selects minimum-weight route

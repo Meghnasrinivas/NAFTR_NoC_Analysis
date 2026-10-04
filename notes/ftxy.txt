@@ -1,0 +1,11 @@
+Source
+  ↓
+Destination
+  ↓
+XY routing
+  ↓
+Check fault
+  ↓
+Choose available direction
+  ↓
+Forward packet
